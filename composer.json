@@ -1,10 +1,10 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "servicios-linea-once/starkit",
+    "description": "Laravel + Inertia + Vue 3 + TypeScript starter kit",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
     "license": "MIT",
+    "keywords": ["laravel", "framework"],
     "require": {
         "php": "^8.3",
         "bacon/bacon-qr-code": "^3.1",
