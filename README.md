@@ -102,11 +102,10 @@ php artisan serve
 
 | Capa | Tecnología |
 |------|-----------|
-| Backend | Laravel 12 |
+| Backend | Laravel 13 |
 | Frontend | Vue 3 + TypeScript |
-| Bridge | Inertia.js v2 |
+| Bridge | Inertia.js v3 |
 | Estilos | Tailwind CSS v4 |
-| Componentes UI | PrimeVue 4 |
 | Autenticación | Laravel Sanctum |
 | Roles y permisos | Spatie Permission |
 | Imágenes / Avatares | Cloudinary |
