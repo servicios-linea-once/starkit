@@ -1,0 +1,39 @@
+{
+    "compilerOptions": {
+        "target": "ES2020",
+        "useDefineForClassFields": true,
+        "lib": ["ES2020", "DOM", "DOM.Iterable"],
+        "module": "ESNext",
+        "moduleResolution": "bundler",
+
+        /* Vite se encarga del transpilado, TS solo verifica tipos */
+        "noEmit": true,
+        "isolatedModules": true,
+        "allowImportingTsExtensions": true,
+
+        /* Vue + JSON */
+        "jsx": "preserve",
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+
+        /* Strictness */
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true,
+
+        "types": ["vite/client","ziggy-js"],
+        /* Alias @ → resources/js */
+        "paths": {
+            "@/*": ["./resources/js/*"]
+        }
+    },
+    "include": [
+        "resources/js/**/*.ts",
+        "resources/js/**/*.d.ts",
+        "resources/js/**/*.vue"
+    ],
+    "references": [
+        { "path": "./tsconfig.node.json" }
+    ]
+}

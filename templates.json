@@ -1,0 +1,9 @@
+{
+    "community": [
+        {
+            "name": "StarKit",
+            "description": "Laravel 12 + Inertia v2 + Vue 3 + TypeScript starter kit",
+            "url": "tu-usuario/starterkit"
+        }
+    ]
+}
