@@ -9,7 +9,7 @@ Un starter kit moderno, elegante y listo para producción.
 [![Laravel](https://img.shields.io/badge/Laravel-13-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
 [![Vue](https://img.shields.io/badge/Vue-3-42b883?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Inertia](https://img.shields.io/badge/Inertia-v2-9553E9?style=flat-square)](https://inertiajs.com)
+[![Inertia](https://img.shields.io/badge/Inertia-v3-9553E9?style=flat-square)](https://inertiajs.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 [Instalación](#-instalación) · [Características](#-características) · [Stack](#-stack) · [Configuración](#️-configuración) · [Estructura](#-estructura)
