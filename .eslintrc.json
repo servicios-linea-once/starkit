@@ -1,0 +1,1 @@
+{\n  "env": {\n    "browser": true,\n    "es2021": true\n  },\n  "extends": [\n    "plugin:vue/vue3-recommended",\n    "plugin:@typescript-eslint/recommended"\n  ],\n  "parser": "@typescript-eslint/parser",\n  "parserOptions": {\n    "ecmaVersion": 12,\n    "sourceType": "module"\n  },\n  "rules": {\n    // Add your custom ESLint rules here\n  }\n}
